@@ -4,7 +4,7 @@
 ---
 ### Hi there 👋
 
-I am Namit Doshi, student at 👨‍💻Shri Vaishnav Vidhyapeeth Vishwavidyalaya, Indore Pursuing B.Tech in CSE. I am tech enthusiast and I like to explore new things in my journey as Software Developer.
+I am Namit Doshi, A dedicated full stack developer with 4+ years of experience in developing user-friendly web applications. Adept at end-to-end software design & development including requirement gathering, documentation, infrastructure setup, coding 👨‍💻.
 
 
 <!--
